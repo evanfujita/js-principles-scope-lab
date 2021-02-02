@@ -26,3 +26,4 @@ Ok, these are your tasks:
   `leastFavoriteCustomer`, be sure to assign it some initial value. Ok, now write a function called
   `changeLeastFavoriteCustomer()` that attempts to change that constant - notice what JavaScript does when you try to
   change the constant.
+ 
